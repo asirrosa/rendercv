@@ -3,8 +3,8 @@
 pip3.X install -r requirements.txt
 ```
 ```bash
-rendercv new "Your Full Name"
+rendercv new "Asier_Rosa"
 ```
 ```bash
-rendercv render "Your_Name_CV.yaml"
+rendercv render "Asier_Rosa_CV.yaml"
 ```
